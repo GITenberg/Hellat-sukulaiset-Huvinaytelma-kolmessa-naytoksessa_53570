@@ -1,0 +1,39 @@
+_repo: Hellat-sukulaiset-Huvinaytelma-kolmessa-naytoksessa_53570
+_version: 0.0.1
+alternative_title: Die zärtlichen Verwandten. Finnish
+contributor:
+  translator:
+    agent_name: Törmänen, C. Edv.
+    aliases:
+    - Tormanen, C. Edv.
+    - Törmänen, Carl Edward
+    birthdate: 1855
+    deathdate: 1880
+    gutenberg_agent_id: '7521'
+    url: http://www.gutenberg.org/2009/agents/7521
+    wikipedia: https://fi.wikipedia.org/wiki/C._Edv._Törmänen
+creator:
+  author:
+    agent_name: Benedix, Roderich
+    alias: Benedix, Julius Roderich
+    birthdate: 1811
+    deathdate: 1873
+    gutenberg_agent_id: '32338'
+    url: http://www.gutenberg.org/2009/agents/32338
+    wikipedia: http://en.wikipedia.org/wiki/Roderich_Benedix
+description: ''
+gutenberg_issued: '2016-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53570'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into Finnish'
+- !lcsh 'Comedies'
+- GITenberg
+title: 'Hellät sukulaiset: Huvinäytelmä kolmessa näytöksessä'
+url: http://www.gutenberg.org/ebooks/53570
