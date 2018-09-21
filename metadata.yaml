@@ -1,5 +1,5 @@
 _repo: Hellat-sukulaiset-Huvinaytelma-kolmessa-naytoksessa_53570
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Die zärtlichen Verwandten. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '7521'
     url: http://www.gutenberg.org/2009/agents/7521
     wikipedia: https://fi.wikipedia.org/wiki/C._Edv._Törmänen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Benedix, Roderich
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32338
     wikipedia: http://en.wikipedia.org/wiki/Roderich_Benedix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53570#Hellat-sukulaiset-Huvinaytelma-kolmessa-naytoksessa
 gutenberg_issued: '2016-11-21'
 gutenberg_type: Text
 identifiers:
